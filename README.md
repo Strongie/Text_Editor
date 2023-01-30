@@ -18,7 +18,7 @@ Build the back end for an e-commerce site. You’ll take a working Express.js AP
 
 Github: https://github.com/Strongie/Text_Editor
 
-Video: 
+Heroku: 
 
 
 ## User Story
